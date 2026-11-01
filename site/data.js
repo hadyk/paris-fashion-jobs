@@ -3,7 +3,7 @@
    LinkedIn guest search + FashionUnited (pass 2). Every role was live at collection time;
    sources are linked on each entry. */
 window.JOBS = {
-  "generated_at": "2026-11-01T03:30:00+01:00",
+  "generated_at": "2026-11-01T01:08:59+01:00",
   "candidate": {
     "name": "Hoda Kamel",
     "headline": "Wholesale & collection merchandising — luxury and premium fashion",
